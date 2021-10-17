@@ -164,14 +164,18 @@ I was unable to implement NPM with Prettier and StyleLint.
 ## Acknowledgements
 Many thanks to my tutor, [Omar Carmona](https://www.linkedin.com/in/omar-c-88746b174/)!
 
-## Questions
+## Important Questions
 ### GitHub Pages 
-It's showing my README.md url, not the site itself. How do I adjust that? 
+When I try to put my version of the .html on GitHub pages, it's showing my README.md url, not the site itself. How do I adjust that? 
+
+### "Github repo contains application code
+I believe I've done this, but it seems so obvious, I'm worried I'm misunderstanding this part of the assignment
 
 ### Semantic Elements
 The `article` element example at [W3 Schools](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_article2) implies it's appropriate to nest articles inside articles. This is the semantic approach I used in my project.
 
-### NPM/Prettier/styleLint
+## Non-Important future Questions
+### Using NPM/Prettier/styleLint
 I wasn't able to figure these out. Obviously these tools are overkill for this small project, but I can see the value when working on big sites with many people.
 
 
