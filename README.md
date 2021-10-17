@@ -7,6 +7,7 @@
     1. [User Story](#user-story)
     2. [Acceptance Criteria](#acceptance-criteria)
 3. [Technologies](#Technologies)
+   [Questions](#Questions)
 
 ## Introduction
 
@@ -51,3 +52,7 @@ THEN I find a concise, descriptive title
 ![Andrew Leonard's Code Refractor Project Screenshot](./Develop/assets/images/TBD)
 
 ## Acknowledgements
+
+## Questions
+
+The `article` element example at [W3 Schools](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_article2) implies it's appropriate to nest articles inside articles. This is the semantic approach I used in my project.

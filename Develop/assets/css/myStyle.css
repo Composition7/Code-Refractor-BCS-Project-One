@@ -20,7 +20,7 @@ p {
 }
 /* global selectors end */
 
-/* header section start 
+/* header selectors start 
 --------------------------------------------------------------------*/
 header {
 	padding: 20px;
@@ -60,7 +60,7 @@ header nav ul li {
 	display: inline-block;
 	margin-left: 25px;
 }
-/* header section end */
+/* header selectors end */
 
 .hero {
 	height: 800px;
@@ -100,49 +100,19 @@ header nav ul li {
 	background-color: #2589bd;
 }
 
-.benefit-lead {
+.bottom-spacing {
 	margin-bottom: 32px;
+}
+.white-text {
 	color: #ffffff;
 }
 
-.benefit-brand {
-	margin-bottom: 32px;
-	color: #ffffff;
-}
-
-.benefit-cost {
-	margin-bottom: 32px;
-	color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefits h3 {
 	margin-bottom: 10px;
 	text-align: center;
 }
 
-.benefit-brand h3 {
-	margin-bottom: 10px;
-	text-align: center;
-}
-
-.benefit-cost h3 {
-	margin-bottom: 10px;
-	text-align: center;
-}
-
-.benefit-lead img {
-	display: block;
-	margin: 10px auto;
-	max-width: 150px;
-}
-
-.benefit-brand img {
-	display: block;
-	margin: 10px auto;
-	max-width: 150px;
-}
-
-.benefit-cost img {
+.benefits img {
 	display: block;
 	margin: 10px auto;
 	max-width: 150px;
@@ -152,7 +122,7 @@ header nav ul li {
 	margin-bottom: 20px;
 	padding: 50px;
 	height: 300px;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+	font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
 		sans-serif;
 	background-color: #0072bb;
 	color: #ffffff;
@@ -171,7 +141,7 @@ header nav ul li {
 	padding: 30px;
 	clear: both;
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-		"Lucida Sans", Arial, sans-serif;
+		"Lucida Sans", "Arial", sans-serif;
 	text-align: center;
 }
 
