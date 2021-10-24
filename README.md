@@ -153,6 +153,7 @@ THEN I find a concise, descriptive title
     <tr>
         <td>Repo Quality</td>
         <td colspan="2">README is descriptive, includes screenshot, and link to deployed application</td>
+  </tr>
 </table>
 
 ## Technologies
