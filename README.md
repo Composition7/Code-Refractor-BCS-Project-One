@@ -89,6 +89,7 @@ THEN I find a concise, descriptive title
 </table>
 
 #### Additional Criteria
+
 <table>
     <tr>
         <th>Category</th>
