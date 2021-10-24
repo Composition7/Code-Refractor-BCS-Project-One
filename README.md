@@ -12,7 +12,7 @@
 ## Project Files
 -  my GitHub repository: [Code-Refractor-BCS-Project-One](https://github.com/Composition7/Code-Refractor-BCS-Project-One)
 -  [README.md link](https://composition7.github.io/Code-Refractor-BCS-Project-One/)
--  [refactored code link](./Develop/index.html)
+-  [refactored code link](./Develop/myindex.html)
 -  screenshot:
 ![Andrew Leonard's Code Refractor Project Screenshot](./Develop/assets/images/Horiseon_SEO_Screenshot_A_Leonard_2021-10-17_14-59-07.png)
 
