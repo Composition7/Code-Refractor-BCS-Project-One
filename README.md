@@ -13,7 +13,8 @@
 -  my GitHub repository: [Code-Refractor-BCS-Project-One](https://github.com/Composition7/Code-Refractor-BCS-Project-One)
 -  [README.md link](https://composition7.github.io/Code-Refractor-BCS-Project-One/)
 -  [refactored code link](./Develop/index.html)
--  ![Andrew Leonard's Code Refractor Project Screenshot](./Develop/assets/images/Horiseon_SEO_Screenshot_A_Leonard_2021-10-17_14-59-07.png)
+-  screenshot:
+![Andrew Leonard's Code Refractor Project Screenshot](./Develop/assets/images/Horiseon_SEO_Screenshot_A_Leonard_2021-10-17_14-59-07.png)
 
 ## Introduction
 
@@ -178,5 +179,3 @@ The `article` element example at [W3 Schools](https://www.w3schools.com/tags/try
 ## Non-Important future Questions
 ### Using NPM/Prettier/styleLint
 I wasn't able to figure these out. Obviously these tools are overkill for this small project, but I can see the value when working on big sites with many people.
-
-
